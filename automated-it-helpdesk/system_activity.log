@@ -1,0 +1,36 @@
+2026-10-12 10:00:01 WARNING: FAILED_LOGIN from IP 192.168.1.50
+2026-10-12 10:00:03 WARNING: FAILED_LOGIN from IP 192.168.1.50
+2026-10-12 10:00:05 WARNING: FAILED_LOGIN from IP 192.168.1.50
+2026-10-12 10:00:01 WARNING: FAILED_LOGIN from IP 192.168.1.50
+2026-10-12 10:00:03 WARNING: FAILED_LOGIN from IP 192.168.1.50
+2026-10-12 10:00:05 WARNING: FAILED_LOGIN from IP 192.168.1.50
+2026-10-12 15:49:25 WARNING: FAILED_LOGIN from IP 192.168.1.105
+2026-10-12 15:49:25 INFO: Scheduled backup completed.
+2026-10-12 15:49:25 INFO: User admin logged in successfully.
+2026-10-12 15:49:25 WARNING: FAILED_LOGIN from IP 192.168.1.105
+2026-10-12 15:49:25 INFO: Scheduled backup completed.
+2026-10-12 15:49:25 INFO: User admin logged in successfully.
+2026-10-12 15:49:25 INFO: User admin logged in successfully.
+2026-10-12 15:49:25 CRITICAL: SERVICE_DOWN - PaymentGatewayAPI not responding
+2026-10-12 15:49:25 WARNING: FAILED_LOGIN from IP 192.168.1.105
+2026-10-12 15:49:25 WARNING: FAILED_LOGIN from IP 192.168.1.105
+2026-10-12 15:49:25 INFO: Scheduled backup completed.
+2026-10-12 15:49:25 INFO: Scheduled backup completed.
+2026-10-12 15:49:25 ERROR: OUT_OF_MEMORY on Web-Server-02
+2026-10-12 15:49:25 INFO: Scheduled backup completed.
+2026-10-12 15:49:25 CRITICAL: SERVICE_DOWN - PaymentGatewayAPI not responding
+2026-10-12 16:02:10 CRITICAL: SERVICE_DOWN - PaymentGatewayAPI not responding
+2026-10-12 16:02:10 CRITICAL: SERVICE_DOWN - PaymentGatewayAPI not responding
+2026-10-12 16:02:10 INFO: User admin logged in successfully.
+2026-10-12 16:02:10 ERROR: OUT_OF_MEMORY on Web-Server-02
+2026-10-12 16:02:10 INFO: User admin logged in successfully.
+2026-10-12 16:02:10 ERROR: OUT_OF_MEMORY on Web-Server-02
+2026-10-12 16:02:10 INFO: User admin logged in successfully.
+2026-10-12 16:02:10 INFO: Scheduled backup completed.
+2026-10-12 16:02:10 CRITICAL: SERVICE_DOWN - PaymentGatewayAPI not responding
+2026-10-12 16:02:10 WARNING: FAILED_LOGIN from IP 192.168.1.105
+2026-10-12 16:02:10 CRITICAL: SERVICE_DOWN - PaymentGatewayAPI not responding
+2026-10-12 16:02:10 INFO: Scheduled backup completed.
+2026-10-12 16:02:10 INFO: Scheduled backup completed.
+2026-10-12 16:02:10 WARNING: FAILED_LOGIN from IP 192.168.1.105
+2026-10-12 16:02:10 INFO: User admin logged in successfully.
