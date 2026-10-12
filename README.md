@@ -28,5 +28,5 @@ An automated IT support operations tool built with Python, SQLite, and Streamlit
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/automated-it-helpdesk.git](https://github.com/YOUR_USERNAME/automated-it-helpdesk.git)
+git clone [https://github.com/Kasorn-Leelapisuth/automated-it-helpdesk.git](https://github.com/Kasorn-Leelapisuth/automated-it-helpdesk.git)
 cd automated-it-helpdesk
